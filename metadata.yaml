@@ -1,0 +1,27 @@
+_repo: Captain-Cranberry-b-A-Cape-Cod-comedy-in-three-acts_71902
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bridgham, Gladys Ruth
+    gutenberg_agent_id: '56456'
+    url: http://www.gutenberg.org/2009/agents/56456
+description: ''
+gutenberg_issued: '2023-10-19'
+identifiers:
+  gutenberg: '71902'
+language: en
+pgterms:marc904: https://archive.org/details/captaincranberry00brid/page/n5/mode/2up
+pgterms:marc905: 20211125103359bridgham
+pgterms:marc906: '1917'
+pgterms:marc907: US
+production_note: Charlene Taylor, Ian Crann and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aBoston :$bWalter H. Baker & Co., $c1917.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Captain Cranberry : $b A Cape Cod comedy in three acts'
+url: http://www.gutenberg.org/ebooks/71902
